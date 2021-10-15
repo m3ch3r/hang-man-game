@@ -1,4 +1,3 @@
-# main.py
 """
 Hang Man Project Python
 
